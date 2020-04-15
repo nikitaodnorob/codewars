@@ -15,6 +15,6 @@ pigIt('Hello world !');     // elloHay orldway !
 ### Sample tests
 
 ```js
-Test.assertEquals(pigIt('Pig latin is cool'),'igPay atinlay siay oolcay')
-Test.assertEquals(pigIt('This is my string'),'hisTay siay ymay tringsay')
+Test.assertEquals(pigIt('Pig latin is cool'),'igPay atinlay siay oolcay');
+Test.assertEquals(pigIt('This is my string'),'hisTay siay ymay tringsay');
 ```
