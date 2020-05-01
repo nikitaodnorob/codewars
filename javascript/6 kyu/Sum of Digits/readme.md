@@ -33,6 +33,6 @@ digital_root(493193)
 ### Sample tests
 
 ```js
-Test.assertEquals( digital_root(16), 7 )
-Test.assertEquals( digital_root(456), 6 )
+Test.assertEquals( digital_root(16), 7 );
+Test.assertEquals( digital_root(456), 6 );
 ```
